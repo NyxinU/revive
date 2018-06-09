@@ -3,7 +3,7 @@
 }
 
 .icon {
-  position: absolute;
+position: absolute;
 width: 22px;
 height: 17px;
 
@@ -262,17 +262,36 @@ color: #6FCF97;
 
 .at-revive {
   position: absolute;
-width: 945px;
-height: 60px;
-left: 243px;
-top: 1395px;
+  width: 945px;
+  height: 60px;
+  left: 243px;
+  top: 1395px;
 
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-line-height: 28px;
-font-size: 16px;
-text-align: center;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 28px;
+  font-size: 16px;
+  text-align: center;
 
-color: #6B7075;
+  color: #6B7075;
+}
+
+.project-img {
+  position: absolute;
+  top: 1480px;
+  width: 416px;
+  height: 416px;
+}
+
+.child-tent {
+  left: 64px;
+}
+
+.cardboard-chair {
+  left: 512px;
+}
+
+.homeless-shelter {
+  left: 960px;
 }
