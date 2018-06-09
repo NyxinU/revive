@@ -161,8 +161,8 @@ color: #50B57A;
   height: 394px;
   left: 786px;
   top: 177px;
+  border: none;
 
-  background: url(cardboard_box.png);
 }
 
 .banner-btn {
@@ -195,12 +195,10 @@ color: #6FCF97;
 
 .mother-son-img {
   position: absolute;
-width: 769px;
-height: 961px;
-left: 0px;
-top: 545px;
-
-background: url(image.png);
+  width: 769px;
+  height: 600px;
+  left: 0px;
+  top: 656px;
 }
 
 .connecting-communites {
