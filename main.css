@@ -1,0 +1,220 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  position: absolute;
+  width: 100px;
+  height: 24px;
+  left: 76px;
+  top: 16px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 24px;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 3px;
+  color: #6FCF97;
+}
+
+.fa-search {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  left: 865px;
+  top: 21px;
+  color: #6B7075;
+}
+
+.projects {
+  position: absolute;
+  width: 56px;
+  height: 24px;
+  left: 916px;
+  top: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0.5px;
+
+  color: #999DA2;
+}
+
+.community {
+  position: absolute;
+  width: 77px;
+  height: 24px;
+  left: 1021px;
+  top: 16px;
+
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0.5px;
+
+  color: #999DA2;
+}
+
+.about {
+  position: absolute;
+  width: 41px;
+  height: 24px;
+  left: 1166px;
+  top: 16px;
+
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0.5px;
+
+  color: #999DA2;
+}
+
+.login {
+  position: absolute;
+  width: 45px;
+  height: 24px;
+  left: 30px;
+  top: 4px;
+
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-size: 16px;
+
+  color: #FFFFFF;
+}
+
+.login-btn {
+  position: absolute;
+  width: 105px;
+  height: 32px;
+  left: 1271px;
+  top: 12px;
+
+  background: #6FCF97;
+  border-radius: 4px;
+}
+
+.banner-background {
+  position: absolute;
+  width: 1440px;
+  height: 600px;
+  /* left: 1440px; */
+  top: 56px;
+
+  background: linear-gradient(180deg, rgba(111, 207, 151, 0.43) 0%, #F5F7F9 100%);
+  transform: rotate(180deg);
+  z-index: -1;
+}
+
+.banner-msg {
+  position: absolute;
+  width: 683px;
+  height: 110px;
+  left: 176px;
+  top: 301px;
+
+  font-style: normal;
+  font-weight: 500;
+  line-height: 64px;
+  font-size: 48px;
+
+  color: #50B57A;
+}
+
+.banner-img {
+  position: absolute;
+  width: 474px;
+  height: 394px;
+  left: 786px;
+  top: 177px;
+
+  background: url(cardboard_box.png);
+}
+
+.banner-btn {
+position: absolute;
+width: 172px;
+height: 40px;
+left: 176px;
+top: 450px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.banner-btn-p {
+position: absolute;
+width: 112px;
+height: 28px;
+left: 30px;
+top: 6px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: 28px;
+font-size: 14px;
+text-align: center;
+
+color: #6FCF97;
+}
+
+.mother-son-img {
+  position: absolute;
+width: 769px;
+height: 961px;
+left: 0px;
+top: 545px;
+
+background: url(image.png);
+}
+
+.connecting-communites {
+  position: absolute;
+width: 538px;
+height: 128px;
+left: 816px;
+top: 815px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+line-height: 64px;
+font-size: 48px;
+
+color: #6FCF97;
+}
+
+.our-mission {
+  position: absolute;
+width: 531px;
+height: 108px;
+left: 816px;
+top: 989px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: 28px;
+font-size: 16px;
+
+color: #6B7075;
+}
+
+.line {
+  position: absolute;
+  width: 1440px;
+  height: 1px;
+  left: 16px;
+  top: 1256px;
+
+  background: #E1E4E8;
+}
