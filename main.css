@@ -2,6 +2,16 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.icon {
+  position: absolute;
+width: 22px;
+height: 17px;
+
+background: #6FCF97;
+border: 1px solid #6FCF97;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
 .title {
   position: absolute;
   width: 100px;
@@ -114,6 +124,22 @@
   z-index: -1;
 }
 
+.thinking-outside {
+  position: absolute;
+width: 213px;
+height: 28px;
+left: 176px;
+top: 257px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: 28px;
+font-size: 16px;
+
+color: #50B57A;
+}
+
 .banner-msg {
   position: absolute;
   width: 683px;
@@ -217,4 +243,38 @@ color: #6B7075;
   top: 1256px;
 
   background: #E1E4E8;
+}
+
+.our-projects {
+  position: absolute;
+width: 267px;
+height: 32px;
+left: 587px;
+top: 1329px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+line-height: 32px;
+font-size: 48px;
+text-align: center;
+
+color: #6FCF97;
+}
+
+.at-revive {
+  position: absolute;
+width: 945px;
+height: 60px;
+left: 243px;
+top: 1395px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: 28px;
+font-size: 16px;
+text-align: center;
+
+color: #6B7075;
 }
